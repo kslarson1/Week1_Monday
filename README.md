@@ -22,6 +22,7 @@ JavaScript is....
 ##Syntax
 - Data types (numbers, strings, boolean)
 - Variables (naming, assigning, operators)
+- Arrays
 - console.log();
 
 ##Push your work to GitHub
