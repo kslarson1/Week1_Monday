@@ -23,3 +23,6 @@ JavaScript is....
 - Data types (numbers, strings, boolean)
 - Variables (naming, assigning, operators)
 - console.log();
+
+##Push your work to GitHub
+- Add, commit, push
