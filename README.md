@@ -16,20 +16,20 @@ var aboutMe = function() {
   return 'My name is ' + firstName + ', and I want to learn ' + wantToLearn + '!';
 };
 ```
-- Name, what you want to learn, random fact that you know.
+- Name. Why you're taking the JS workshop. What you want to learn. Fun fact.
 - Everybody on Slack
 
 ##What is JavaScript?
 ```html
 <script type="text/javascript" src="main.js"></script>
 ```
-JavaScript was introduced in 1995 as a way to add programs to the Netscape Navigator web browser. It has since been adopted by all other major browsers, and is the basis for modern web applications. It provides an interactive experience for the user, without a page reload for every action.
+JavaScript was introduced in 1995 as a way to add programs to the Netscape Navigator web browser. It has since been adopted by all other major browsers, and is the basis for modern web applications. It provides an interactive experience for the user, without a page reload for every action, and is what makes apps like Gmail, Google Maps, and Facebook possible.
 <br>
 <br>
 JavaScript IS NOT Java! When JavaScript was first introduced, Java was being heavily marketed and adopted, and JavaScript sought to ride on the success. Now we are stuck with the name.
 <br>
 <br>
-JavaScript is relatively liberal in what it allows users to do. The intent being that it would make programming easier for beginnners. In reality, it can make finding problems in your code more challenging, because the system won't point them out to you. The flexibility does have its advantages, allowing for greater freedom when structuring your program.
+The goal for this course is to establish a solid foundation of how the language is structured, learn how to use JavaScript to create an interactive DOM, integrate external sites and data, create editable databases, and successfully deploy an application (or two).
 
 ##Environment setup
 - Command line intro
@@ -120,7 +120,6 @@ $ git clone git@github.com:calebatwood/Week1_Monday.git
 #Intro to JavaScript
 ##The Console
 - In Google Chrome: `cmd + option + j`
-
 
 ##Syntax
 Primitive Data Types: `numbers`, `strings`, `boolean`, `undefined`, `null`
