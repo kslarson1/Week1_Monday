@@ -123,7 +123,7 @@ $ git clone git@github.com:calebatwood/Week1_Monday.git
 
 
 ##Syntax
-Data Types, Variables, Operators
+Primitive Data Types: `numbers`, `strings`, `boolean`, `undefined`, `null`
 ```javascript
 var number = 9;
 var float = 3.2;
@@ -134,7 +134,7 @@ var boolean = true; //or false. Boolean values distinguish between possibilities
 undefined   //no meaningful value
 null    //no meaningful value
 ```
-Basic operators
+Basic math operators
 ```javascript
 
 console.log(7 - 3);
@@ -145,13 +145,19 @@ console.log(5 * 2);
 // 10
 console.log(3/2);
 // 1.5
+console.log(3 == (4-1));
+// true
+console.log(5 != (2+3));
+// false
 console.log(0.2 + 0.4);
 // ????????
 
+//Concatentation (adding strings)
 
 var person = 'David';
 var greetPerson = 'Hello ' + person + '!'
 console.log(greetPerson);
+
 // Hello David!
 ```
 
@@ -177,6 +183,8 @@ document.write('Hello World');
 console.log('Hello World');
 // displays string in console
 ```
+When would you want to use console.log? Document write?
+
 ##prompt() and alert()
 ```javascript
 prompt('What is your name?');
