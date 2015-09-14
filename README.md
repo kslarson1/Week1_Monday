@@ -62,6 +62,16 @@ https://help.github.com/articles/set-up-git/#platform-mac
 <br>
 ![Repo Flow](/images/repoFlow.png)
 <br>
+<br>
+  Keys to a good commit message:
+  - Limit to 50 characters
+  - Capitalize first word
+  - Do not end with a period
+  - Concisely explain what change you made
+<br>
+<br>
+[Commits from last night](http://www.commitlogsfromlastnight.com/)
+
 ##Creating Repositories
 - Create your first repository (repo): [Documentation](https://help.github.com/articles/create-a-repo/)
 <br>
@@ -71,9 +81,11 @@ $ git add .
 $ git commit -m 'My first GitHub commit'
 $ git push
 ```
-[More Git Commands](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html)
+
 - Add and commit your changes to your ReadMe.
 - Push your changes to GitHub !
+<br>
+[More Git Commands](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html)
 
 ##Cloning Repositories
 Clone this repository to your class directory!
