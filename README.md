@@ -59,7 +59,7 @@ $ rm            //remove file
 
 ##Version control
 `Version Control` is system system that records changes to a file or set of files over time so that you can recall specific versions later.
-  - Reversion to previous states
+  - Reverting to previous states
   - Team Coordination
   - Due Diligence (open source credit)
 <br>
