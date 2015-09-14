@@ -7,7 +7,7 @@
 - Pulling down our first repository
 - Basic JS syntax
 
-##Introductions
+##Introductions/Housekeeping
 ```javascript
 var firstName = 'Caleb';
 var wantToLearn = 'what you want to achieve with JS';
@@ -16,24 +16,46 @@ var aboutMe = function() {
   return 'My name is ' + firstName + ', and I want to learn ' + wantToLearn + '!';
 };
 ```
+- Name, what you want to learn, random fact that you know.
+- Everybody on Slack
 
 ##What is JavaScript?
-JavaScript is often referred to as the 'language of the web', because it appears in almost every page you view today. JavaScript functions within the end-user's browser, allowing for more dynamic content and operations than HTML and CSS alone.
-
-- Example html, html + css, html + css +js
-
-
+```html
+<script type="text/javascript" src="main.js"></script>
+```
+JavaScript was introduced in 1995 as a way to add programs to the Netscape Navigator web browser. It has since been adopted by all other major browsers, and is the basis for modern web applications. It provides an interactive experience for the user, without a page reload for every action.
+<br>
+<br>
+JavaScript IS NOT Java! When JavaScript was first introduced, Java was being heavily marketed and adopted, and JavaScript sought to ride on the success. Now we are stuck with the name.
+<br>
+<br>
+JavaScript is relatively liberal in what it allows users to do. The intent being that it would make programming easier for beginnners. In reality, it can make finding problems in your code more challenging, because the system won't point them out to you. The flexibility does have its advantages, allowing for greater freedom when structuring your program.
 
 ##Environment setup
 - Command line intro
 - Version control, introduce GitHub
 - Create GitHub account
-- Install Git in terminal
+- Text editors
 - Chrome, introduce console
 
 ##Command line
 - Open terminal
-- Create class directory
+- Terminal vs GUI
+- Create workshop directory
+
+```javascript
+$ pwd           //present working directory
+$ ls            //list directory
+$ cd            //change directory
+$ cd jsClass    //switch to the jsClass directory
+$ mkdir         //make new directory
+$ rmdir         //remove directory
+$ touch         //make new file
+$ mv            //move (rename) a file $ mv oldName newName
+$ rm            //remove file
+```
+
+- [Command line resource](http://cli.learncodethehardway.org/book/)
 
 ##Version control
 `Version Control` is system system that records changes to a file or set of files over time so that you can recall specific versions later.
@@ -74,6 +96,7 @@ https://help.github.com/articles/set-up-git/#platform-mac
 
 ##Creating Repositories
 - Create your first repository (repo): [Documentation](https://help.github.com/articles/create-a-repo/)
+<br>
 <br>
 Basic Git Commands
 ```
@@ -163,4 +186,5 @@ var name = prompt('What is your name?');
 alert('This is a test!');
 // opens modal with message 'This is a test!'
 ```
-##Push your work to GitHub
+##Attached exercises
+Follow the instructions in main.js for practice logging and writing to the page. When you are done, please push your work to GitHub.

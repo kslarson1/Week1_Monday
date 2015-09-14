@@ -15,4 +15,9 @@
 
 //6. Declare three variables called length, width and height. Calculate area and volume.
 
-//7. Ask 
+//7. Ask for a user's name, age and city. In a single command display/log the sentence:
+// "My name is...I'm....years old, and I live in....."
+
+//8. Create an alert that uses the response from a prompt.
+
+//9. 
