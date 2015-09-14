@@ -42,6 +42,9 @@ JavaScript is often referred to as the 'language of the web', because it appears
   - Due Diligence (open source credit)
 <br>
 <br>
+![Repo Flow](/images/repoFlow.png)
+<br>
+<br>
 [More on Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 <br>[Git Version Control Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
