@@ -1,4 +1,4 @@
-#Welcome to JavaScript !!
+#Welcome to JS Workshop Day One !!
 
 ##Outline for Monday 9/14
 - Introductions
