@@ -42,9 +42,6 @@ JavaScript is often referred to as the 'language of the web', because it appears
   - Due Diligence (open source credit)
 <br>
 <br>
-![Repo Flow](/images/repoFlow.png)
-<br>
-<br>
 [More on Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 <br>[Git Version Control Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
@@ -61,7 +58,11 @@ https://help.github.com/articles/set-up-git/#platform-mac
 
 - Generate your SSH key:  https://help.github.com/articles/generating-ssh-keys/
 
-##Repositories
+##Workflow
+<br>
+![Repo Flow](/images/repoFlow.png)
+<br>
+##Creating Repositories
 - Create your first repository (repo): [Documentation](https://help.github.com/articles/create-a-repo/)
 <br>
 Basic Git Commands
@@ -73,6 +74,17 @@ $ git push
 [More Git Commands](https://confluence.atlassian.com/stash/basic-git-commands-278071958.html)
 - Add and commit your changes to your ReadMe.
 - Push your changes to GitHub !
+
+##Cloning Repositories
+Clone this repository to your class directory!
+<br>
+```
+$ git clone git@github.com:calebatwood/Week1_Monday.git
+```
+
+#Intro to JavaScript
+##The Console
+- In Google Chrome: `cmd + option + j`
 
 
 ##Syntax
@@ -140,4 +152,3 @@ alert('This is a test!');
 // opens modal with message 'This is a test!'
 ```
 ##Push your work to GitHub
-- Add, commit, push
