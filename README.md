@@ -1,4 +1,4 @@
-#Welcome to JS Workshop Day One !!
+#Karl was here !!
 
 ##Outline for Monday 9/14
 - Introductions
